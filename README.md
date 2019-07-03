@@ -23,9 +23,12 @@ You can customize the prefix how you like, and the bot will save it.
 Check out [this](https://modboi.js.org/docs/command_list) list of commands (or run `m!help`) to see what all you can do.
 
 # Credits
-**FHGDev#0001** - for development of the source code
-**DiscordApp#0001** - for the awesome ubuntu vps that is hosting Modboi
-**Discord Bot List (discordbots.org)** - for listing and publicity.
+**FHGDev#0001** - for development of the source code  
+
+**DiscordApp#0001** - for the awesome ubuntu vps that is hosting Modboi  
+
+**Discord Bot List (discordbots.org)** - for listing and publicity.  
+
 
 
 # Embeds
