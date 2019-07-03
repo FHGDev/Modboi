@@ -1,5 +1,3 @@
-[![Discord Bots](https://discordbots.org/api/widget/572092327460601859.svg)](https://discordbots.org/bot/572092327460601859)
-
 # Modboi
   Modboi - The only moderator you'll ever need.
 
@@ -31,7 +29,7 @@ Check out [this](https://modboi.js.org/docs/command_list) list of commands (or r
 
 
 # Embeds
-Yeah, I'm kinda required to put these on here if I want to get Modboi certified, so here they are.<br>
+Yeah, I'm kinda required to put these on here if I want to get Modboi certified, so here they are.  
 [![Discord Bots](https://discordbots.org/api/widget/572092327460601859.svg)](https://discordbots.org/bot/572092327460601859)
 
 ###### The name 'Modboi' and everything associated with this bot is owned by FHGDev#0001 and may not be duplicated or shared without my explicit permission. Modboi (c) 7/2/2019 FHGDev
