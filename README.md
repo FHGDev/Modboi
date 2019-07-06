@@ -14,7 +14,7 @@ So, you wanna use my bot, eh? Well first of all, there are a few steps to go thr
 ## Steps
 
 Step 1.
-Go to [this](https://discordbots.org/bot/572092327460601859 "Modboi | Discord Bots") page, and click the invite button.
+Go to [this](https://bots.ondiscord.xyz/bots/572092327460601859 "Modboi") page, and click the 'Add to server' button.
 > Also while you're there, please upvote the bot. It keeps me motivated to make more commands and features!
 
 Step 2.
@@ -27,7 +27,7 @@ Check out [this](https://modboi.js.org/docs/command_list) list of commands (or r
 
 **DiscordApp#0001** - for the awesome ubuntu vps that is hosting Modboi  
 
-**Discord Bot List (discordbots.org)** - for listing and publicity.  
+[**Bots on Discord**](https://bots.ondiscord.xyz) - for listing and publicity.  
 
 
 
